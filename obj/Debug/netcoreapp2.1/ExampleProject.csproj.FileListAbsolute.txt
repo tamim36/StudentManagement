@@ -1,0 +1,14 @@
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.deps.json
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.runtimeconfig.json
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.runtimeconfig.dev.json
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.dll
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.pdb
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.csprojAssemblyReference.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.RazorAssemblyInfo.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.RazorAssemblyInfo.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.AssemblyInfoInputs.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.AssemblyInfo.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.RazorTargetAssemblyInfo.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.dll
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.pdb
