@@ -24,7 +24,7 @@ namespace ExampleProject
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            services.AddMvc().AddXmlSerializerFormatters();
             services.AddSingleton<IStudentRepository, MockStudentRepository>();
         }
 
@@ -38,7 +38,7 @@ namespace ExampleProject
 
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
-
+            //app.UseMvc();
             
         }
     }

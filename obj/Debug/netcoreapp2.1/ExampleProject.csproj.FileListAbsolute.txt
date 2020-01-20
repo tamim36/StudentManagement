@@ -12,3 +12,16 @@ C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.
 C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.RazorTargetAssemblyInfo.cache
 C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.dll
 C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.pdb
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.Views.dll
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\bin\Debug\netcoreapp2.1\ExampleProject.Views.pdb
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.TagHelpers.input.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.TagHelpers.output.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.RazorCoreGenerate.cache
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.RazorTargetAssemblyInfo.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.Views.pdb
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\ExampleProject.csproj.CopyComplete
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Delete.g.cshtml.cs
+C:\Users\tamim\source\repos\ExampleProject\ExampleProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.g.cshtml.cs

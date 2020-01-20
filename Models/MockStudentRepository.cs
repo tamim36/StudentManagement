@@ -19,9 +19,33 @@ namespace ExampleProject.Models
             };
         }
 
+        public Student Add(Student student)
+        {
+            student.Id = _studentList.Max(e => e.Id) + 1;
+            _studentList.Add(student);
+            return student;
+        }
+
+        public void Delete(Student student)
+        {
+            _studentList.Remove(student);
+        }
+
+        public IEnumerable<Student> GetAllStudent()
+        {
+            return _studentList;
+        }
+
         public Student GetStudent(int Id)
         {
             return _studentList.FirstOrDefault(e => e.Id == Id);
+        }
+
+        public Student Update(Student student)
+        {
+            //_studentList[_studentList.Find(ind => ind.Equals(student))] = student;
+            _studentList[student.Id - 1] = student;
+            return student;
         }
     }
 }

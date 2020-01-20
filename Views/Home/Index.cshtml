@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ExampleProject.Models.Student>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    @foreach (var student in Model)
+    {
+        <div>@student.Id ------- @student.Name ---------------  @student.Department  </div>
+        <button><a href="/home/details/@student.Id"> Details </a></button>
+        <br> <br>
+
+             <a href="/home/delete/@student.Id"> Delete </a>
+            
+        <br> <br>
+        <a href="/home/update/@student.Id"> Update </a>
+
+        <br> <br> <br> <br>
+        }
+    </body>
+</html>
